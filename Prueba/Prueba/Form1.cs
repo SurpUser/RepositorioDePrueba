@@ -14,7 +14,7 @@ namespace Prueba
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();//inicializa los componentes
         }
     }
 }
